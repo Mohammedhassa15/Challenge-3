@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "title": "BIOLOGY",
+      "content": "Is the study of living things and how they interact with the enviroment",
+      "author": "Obama",
+      "url": "https://media.istockphoto.com/id/2148703240/photo/3d-illustration-of-a-dna-molecule-with-sparkling-effects-symbolizing-complexity-and-genetic.webp?a=1&b=1&s=612x612&w=0&k=20&c=d52QryjxixElnaqaFvQWVcWi8m41TgIz1VdM0KBw3nI=",
+      "id": 2
+    },
+    {
+      "title": "Computer Science",
+      "content": "Computer science is the study of computers and computational systems, encompassing both theoretical and practical aspects of computation, information, and automation. It involves the design, development, and analysis of computer hardware and software, as well as the application of computational principles to various fields. ",
+      "author": "Mohammed",
+      "url": "https://images.unsplash.com/photo-1610563166150-b34df4f3bcd6?q=80&w=1076&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 3
+    },
+    {
+      "title": "Chemistry",
+      "content": "deals with elements and reactions",
+      "author": "Mohammed",
+      "url": "https://plus.unsplash.com/premium_photo-1681426678542-613c306013e1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 4
+    },
+    {
+      "title": "Iphone",
+      "content": "AI Overview\nEverything to Know About iPhone 15\nThe iPhone is a line of smartphones designed and marketed by Apple Inc. that runs on the iOS operating system. It was first introduced by Steve Jobs in January 2007 and has since become one of the most popular and influential smartphones globally. The iPhone combines features of a mobile phone, digital camera, music player, and personal computer into a single device with a touchscreen interface. \n",
+      "author": "Steve Cooks",
+      "url": "https://images.unsplash.com/photo-1616410011236-7a42121dd981?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 5
+    }
+  ]
+}
