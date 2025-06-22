@@ -28,7 +28,7 @@ A simple CRUD(Create, Read, Update, Delete)blog post manager built with HTML, CS
 1. Clone the repository to your local machine
 
 2. Install json-server if not already installed
-  - ***npm install -g json-server***
+  - ***npm install -g json-server@0.17.4***
 3. Start the JSON server
   - ***json-server --watch db.json***
   - the JSON server will run at:
